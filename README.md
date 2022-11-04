@@ -1,13 +1,12 @@
 ## Software Architect, Developer, IoT Fan, Music Fan
 
 - 👋 Hi, I’m @rbrea-edu
-- 🔭 I’m currently working on a SaaS financial application
-- 🌱 I’m currently learning/using K8s, OpenShif and Kafka.
+- 🔭 I’m currently working on a SaaS financial application and teacher [@UNAHUR](https://github.com/Unahur)
+- 🌱 I’m currently using K8s and containers in general
 - 👯 I’m looking to collaborate with other developer to create design patterns for applications using K8s CI/CD
 - 💬 Ask me about Angular 2+, C#, SQL or any code related stuff.
 - 📫 How to reach me: [EMail](ricardo.brea@unahur.edu.ar)
 - 😄 Pronouns: He/His
-- ⚡ Fun facts: Using the yuudj alias since a was a teenager, now a found it funny and original. A friend and I did some short YouTube tech videos for fun.
 
 ### Languages and Tools:
 
