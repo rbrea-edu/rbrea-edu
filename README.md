@@ -1,13 +1,20 @@
+## Hi there, I'm Ricardo 🤘
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbrea-edu&theme=gotham)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rbrea-edu&theme=gotham)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rbrea-edu&theme=gotham)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rbrea-edu&theme=gotham)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rbrea-edu&theme=gotham&utcOffset=-3)
+
 ## Software Architect, Developer, IoT Fan, Music Fan
 
-- 👋 Hi, I’m @rbrea-edu
-- 🔭 I’m currently working on a SaaS financial application and teacher [@UNAHUR](https://github.com/Unahur)
-- 🌱 I’m currently using K8s and containers in general
+- 🔭 I’m currently working on a SaaS financial application
+- 🌱 I’m currently learning/using K8s, OpenShift , RabbitMq, Minio.
 - 👯 I’m looking to collaborate with other developer to create design patterns for applications using K8s CI/CD
 - 💬 Ask me about Angular 2+, C#, SQL or any code related stuff.
-- 📫 How to reach me: [EMail](ricardo.brea@unahur.edu.ar)
 - 😄 Pronouns: He/His
-
+- 
 ### Languages and Tools:
 
 <div style="flex-wrap: wrap;align-items: flex-start;">
@@ -72,9 +79,22 @@
 <img alt="Kafka" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg"  />
 </div>
 
+### Connect with me:
+
+[<img alt="yuudj | Twitter" src="https://img.shields.io/twitter/follow/yuudj?style=social"/>][twitter]<br/>
+
+[<img alt="yuudj | GitHub" src="https://img.shields.io/github/followers/yuudj?label=follow&style=social"/>][github]<br/>
+
+[<img alt="yuudj | YouTube" src="https://img.shields.io/badge/-yuudj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuudj/"/>][linkedin]<br/>
+
+[<img align="left" alt="yuudj | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />][youtube]<br/>
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=yuudj&label=Views&color=green&style=plastic" alt="yuudj" />
 
 <div align="center">
 
-### Made with ❤️ using [Visual Studio Code](https://code.visualstudio.com/)
+### Made with ❤️ ❤️ using [Visual Studio Code](https://code.visualstudio.com/)
 
 </div>
+
