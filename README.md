@@ -79,15 +79,6 @@
 <img alt="Kafka" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg"  />
 </div>
 
-### Connect with me:
-
-[<img alt="yuudj | Twitter" src="https://img.shields.io/twitter/follow/yuudj?style=social"/>][twitter]<br/>
-
-[<img alt="yuudj | GitHub" src="https://img.shields.io/github/followers/yuudj?label=follow&style=social"/>][github]<br/>
-
-[<img alt="yuudj | YouTube" src="https://img.shields.io/badge/-yuudj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuudj/"/>][linkedin]<br/>
-
-[<img align="left" alt="yuudj | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />][youtube]<br/>
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=yuudj&label=Views&color=green&style=plastic" alt="yuudj" />
